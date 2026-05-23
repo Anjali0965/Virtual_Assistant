@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pyaudio
+requests
+sounddevice
+numpy
+Pillow
+pyautogui
